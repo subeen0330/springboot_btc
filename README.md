@@ -1,8 +1,5 @@
 # Standard Spring boot Framework (ver 0.1)
 
-###### test commit for github action
-
-
 ## ● setup [IntelliJ 기준]
 1. GIT Clone
 2. File Name Replace "easyoops" > "{project name}"
