@@ -5,7 +5,7 @@
 2. File Name Replace "easyoops" > "{project name}"
 3. File > Projects Structure > Project, Module > ver 1.8 / 8 변경.
 4. com/{project}/{project}Application 실행
-5. DB(H2) 자동 구성 및 스키마 자동 세팅.
+5. DB(H2) 자동 구성 및 스키마 자동 세팅. 
 
 ## ● structure
 ![image](https://user-images.githubusercontent.com/13517312/170916737-aa3627dc-cc0b-4626-988a-b397589b7824.png)
