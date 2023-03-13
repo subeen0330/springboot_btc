@@ -1,8 +1,2 @@
 .idea/
 target/
-
-# test1/File1
-# git에 반영하지 않겠다 -> File1이 노란색으로 변경됨
-
-# test1/**/
-# test1/test2/*
