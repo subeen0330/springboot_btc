@@ -21,4 +21,6 @@ class EasyoopsApplicationTests {
 	void contextLoads3() {
 	}
 
+	void contextLoads4() {
+	}
 }
