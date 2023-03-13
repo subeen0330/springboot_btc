@@ -12,4 +12,10 @@ class EasyoopsApplicationTests {
 	void contextLoads() {
 	}
 
+	void contextLoads1() {
+	}
+
+	void contextLoads2() {
+	}
+
 }
