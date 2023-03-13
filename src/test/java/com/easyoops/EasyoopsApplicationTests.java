@@ -11,7 +11,5 @@ class EasyoopsApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-	void method1() {
 
-	}
 }
